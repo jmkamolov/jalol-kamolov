@@ -1,8 +1,10 @@
-users = ['alisher1983','aziza','yasina', 'umar']
+# print ("helloworld")
+# print("Hello World")
+# print("O'ngacha sanaymiz")
+# for n in range(10):
+#     print(n+1)
 
-login = input("Yangi login tanlang: ")
+x, y = 60, 50
+z = x-y
+print(z)
 
-if login in users:
-    print('Login band, yangi login tanalng!')
-else:
-    print("Xush kelibsiz!")
