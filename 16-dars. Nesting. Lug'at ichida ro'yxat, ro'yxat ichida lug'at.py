@@ -1,5 +1,5 @@
 # Python darslari:
-# 15-dars vazifalari.
+# 16-dars vazifalari.
 # Nesting. Lug'at ichida ro'yxat, ro'yxat ichida lug'at?
 
 # Adabiyot (ilm-fan, san'at, internet) olamidagi 4 ta mashxur shaxlar haqidagi 
